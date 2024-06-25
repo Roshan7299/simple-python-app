@@ -1,1 +1,0 @@
-print("enter the number form 1 to 100")
